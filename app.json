@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "trucr_rn_v2",
+    "slug": "trucr_rn_v2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "trucr_rn_v2"
+}
